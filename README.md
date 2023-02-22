@@ -1,2 +1,1 @@
-# precurshenry
-Este es un repositorio de prueba
+Este es un repositorio de prueba y clonarlo desde gitup a mi computador
